@@ -104,11 +104,12 @@ h1 {
     padding-left: 720px;
 }
 
+
 #EarphoneGuy {
     float: left;
-     margin-left: 550px;
    border: solid 3px;
     padding: 6px;
+    margin-left: 550px;
 }
 
 h2 {
